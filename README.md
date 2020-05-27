@@ -4,4 +4,4 @@
 ![Java CI with Gradle](https://github.com/TraceMC/Trace/workflows/Java%20CI%20with%20Gradle/badge.svg)
 [![Discord](https://img.shields.io/discord/715230673081729085)](https://discord.gg/23KnCvq)
 
-Production releases of the Trace Client
+Production releases of the Trace Client. Also used for issue tracking.
